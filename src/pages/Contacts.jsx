@@ -1,8 +1,8 @@
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
-//
+
 import { ContactsList, Filter, Loader } from 'components';
-//
+
 import { fetchContacts } from 'state';
 import { useContacts } from 'hooks';
 

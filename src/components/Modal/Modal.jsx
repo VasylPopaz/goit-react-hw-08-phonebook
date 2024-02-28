@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { createPortal } from 'react-dom';
-//
+
 import { EditContactForm } from 'components';
 
 const modalRoot = document.querySelector('#modal-root');

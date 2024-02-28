@@ -1,8 +1,8 @@
 import { useDispatch } from 'react-redux';
 import { toast } from 'react-toastify';
-//
+
 import { Modal } from 'components';
-//
+
 import { useModal } from 'hooks';
 import { deleteContact } from 'state';
 

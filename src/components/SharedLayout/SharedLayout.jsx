@@ -1,6 +1,6 @@
 import { Suspense } from 'react';
 import { Outlet } from 'react-router-dom';
-//
+
 import { AppBar, Loader } from 'components';
 
 export const SharedLayout = () => {

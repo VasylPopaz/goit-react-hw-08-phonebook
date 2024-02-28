@@ -1,10 +1,6 @@
 import { useSelector } from 'react-redux';
-//
-import {
-  selectUserName,
-  selectIsLoggedIn,
-  selectIsRefreshing,
-} from 'state';
+
+import { selectUserName, selectIsLoggedIn, selectIsRefreshing } from 'state';
 
 export const useAuth = () => {
   const isLoggedIn = useSelector(selectIsLoggedIn);

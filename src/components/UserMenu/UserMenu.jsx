@@ -1,7 +1,7 @@
 import { useDispatch } from 'react-redux';
 import { toast } from 'react-toastify';
 import { IoLogOut } from 'react-icons/io5';
-//
+
 import { useAuth } from 'hooks';
 import { logOut } from 'state';
 

@@ -1,5 +1,5 @@
 import { ContactsListItem, Modal } from 'components';
-//
+
 import { useContacts, useModal } from 'hooks';
 
 export const ContactsList = () => {

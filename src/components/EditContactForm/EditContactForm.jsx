@@ -1,10 +1,11 @@
 import { useForm } from 'react-hook-form';
 import { useDispatch } from 'react-redux';
 import { toast } from 'react-toastify';
-//
+
+import { Input } from 'components';
+
 import { useContacts } from 'hooks';
 import { addContact, updateContact } from 'state';
-import { Input } from 'components';
 
 export function EditContactForm({ item, close, isEdit }) {
   const { contacts } = useContacts();

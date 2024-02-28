@@ -1,10 +1,10 @@
 import { Route, Routes } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { lazy, useEffect } from 'react';
-//
+
 import { Loader, SharedLayout } from 'components';
 import NotFound from 'pages/NotFound';
-//
+
 import { PrivateRoute, PublicRoute } from 'routes';
 import { refreshCurrentUser } from 'state';
 import { useAuth } from 'hooks';

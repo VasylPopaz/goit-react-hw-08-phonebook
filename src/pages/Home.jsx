@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
-//
-import heroImg from '../images/bg-hero.jpg';
+
+import heroImg from 'assets/images/bg-hero.jpg';
 
 const Home = () => {
   return (
