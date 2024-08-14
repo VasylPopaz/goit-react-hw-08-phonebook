@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/38.319eb8fc.chunk.js","mappings":"gMAMA,UAJc,WACZ,OAAOA,EAAAA,EAAAA,KAACC,EAAAA,GAAS,GACnB,C","sources":["pages/Login.jsx"],"sourcesContent":["import { LoginForm } from 'components';\n\nconst Login = () => {\n  return <LoginForm />;\n};\n\nexport default Login;\n"],"names":["_jsx","LoginForm"],"sourceRoot":""}

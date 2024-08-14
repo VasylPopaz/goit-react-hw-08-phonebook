@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_phonebook_private_public_routes=self.webpackChunkreact_phonebook_private_public_routes||[]).push([[38],{4038:function(e,t,u){u.r(t);var r=u(3284),o=u(184);t.default=function(){return(0,o.jsx)(r.U0,{})}}}]);
+//# sourceMappingURL=38.319eb8fc.chunk.js.map

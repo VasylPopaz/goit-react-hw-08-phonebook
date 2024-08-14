@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/phonebook-private-public-routes-react/static/css/main.385d03a5.css",
-    "main.js": "/phonebook-private-public-routes-react/static/js/main.d0d1d4ef.js",
-    "static/js/915.f43fe45f.chunk.js": "/phonebook-private-public-routes-react/static/js/915.f43fe45f.chunk.js",
-    "static/js/285.25c5fcdb.chunk.js": "/phonebook-private-public-routes-react/static/js/285.25c5fcdb.chunk.js",
-    "static/js/38.7e1658d5.chunk.js": "/phonebook-private-public-routes-react/static/js/38.7e1658d5.chunk.js",
-    "static/js/910.d0b746f8.chunk.js": "/phonebook-private-public-routes-react/static/js/910.d0b746f8.chunk.js",
-    "static/media/bg-hero.jpg": "/phonebook-private-public-routes-react/static/media/bg-hero.50fbf10e107e7bea1d26.jpg",
-    "index.html": "/phonebook-private-public-routes-react/index.html",
-    "main.385d03a5.css.map": "/phonebook-private-public-routes-react/static/css/main.385d03a5.css.map",
-    "main.d0d1d4ef.js.map": "/phonebook-private-public-routes-react/static/js/main.d0d1d4ef.js.map",
-    "915.f43fe45f.chunk.js.map": "/phonebook-private-public-routes-react/static/js/915.f43fe45f.chunk.js.map",
-    "285.25c5fcdb.chunk.js.map": "/phonebook-private-public-routes-react/static/js/285.25c5fcdb.chunk.js.map",
-    "38.7e1658d5.chunk.js.map": "/phonebook-private-public-routes-react/static/js/38.7e1658d5.chunk.js.map",
-    "910.d0b746f8.chunk.js.map": "/phonebook-private-public-routes-react/static/js/910.d0b746f8.chunk.js.map"
+    "main.css": "/react-phonebook-private-public-routes/static/css/main.385d03a5.css",
+    "main.js": "/react-phonebook-private-public-routes/static/js/main.090e09c5.js",
+    "static/js/807.d5f4b4b8.chunk.js": "/react-phonebook-private-public-routes/static/js/807.d5f4b4b8.chunk.js",
+    "static/js/285.4f0ec881.chunk.js": "/react-phonebook-private-public-routes/static/js/285.4f0ec881.chunk.js",
+    "static/js/38.319eb8fc.chunk.js": "/react-phonebook-private-public-routes/static/js/38.319eb8fc.chunk.js",
+    "static/js/910.13df3319.chunk.js": "/react-phonebook-private-public-routes/static/js/910.13df3319.chunk.js",
+    "static/media/bg-hero.jpg": "/react-phonebook-private-public-routes/static/media/bg-hero.50fbf10e107e7bea1d26.jpg",
+    "index.html": "/react-phonebook-private-public-routes/index.html",
+    "main.385d03a5.css.map": "/react-phonebook-private-public-routes/static/css/main.385d03a5.css.map",
+    "main.090e09c5.js.map": "/react-phonebook-private-public-routes/static/js/main.090e09c5.js.map",
+    "807.d5f4b4b8.chunk.js.map": "/react-phonebook-private-public-routes/static/js/807.d5f4b4b8.chunk.js.map",
+    "285.4f0ec881.chunk.js.map": "/react-phonebook-private-public-routes/static/js/285.4f0ec881.chunk.js.map",
+    "38.319eb8fc.chunk.js.map": "/react-phonebook-private-public-routes/static/js/38.319eb8fc.chunk.js.map",
+    "910.13df3319.chunk.js.map": "/react-phonebook-private-public-routes/static/js/910.13df3319.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.385d03a5.css",
-    "static/js/main.d0d1d4ef.js"
+    "static/js/main.090e09c5.js"
   ]
 }
